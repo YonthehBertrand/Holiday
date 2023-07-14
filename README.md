@@ -1,0 +1,1 @@
+This is an ecommerce website i built with HTML, CSS and JS after learning how to code 
