@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100,200,300,400,500&display=swap');
+
+.section-p1{
+    padding: 40px 80px;
+}
+body{
+    width: 100%;
+}
+
+#prodct1{
+    text-align: center;
+}
+
+#prodct1 .pro img{
+    width: 40vh;
+    height: 60vh;
+    border-radius: 20px;
+}
